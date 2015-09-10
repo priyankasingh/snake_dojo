@@ -2,6 +2,7 @@ Snake for Southampton Code Dojo (10/9/15)
 
 By: Priyanka Singh, Keith, Bryan Yap and ??
 
+Play the game at : https://snake-dojo-priyankasingh.c9.io/hello-world.html
 
 
 
